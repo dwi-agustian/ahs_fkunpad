@@ -1,1 +1,1 @@
-Dashboard AHS FK Unpad bertujuan untuk menyediakan visualisasi untuk monitoring pencapaian program AHS FK Unpad baik dari segi kegiatan/program, maupun luaran dan dampaknya dari waktu ke waktu yang dilakukan dengan programmatic assessment.
+Dashboard AHS FK Unpad bertujuan untuk menyediakan visualisasi untuk monitoring pencapaian program AHS FK Unpad baik dari segi kegiatan/program, maupun luaran dan dampaknya dari waktu ke waktu yang dilakukan dengan pendekatan programmatic assessment.
